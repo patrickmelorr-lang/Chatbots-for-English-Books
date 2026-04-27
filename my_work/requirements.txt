@@ -1,0 +1,20 @@
+# ===== Procesamiento de PDF y texto =====
+pypdf>=4.0.0
+tiktoken>=0.7.0
+langchain-text-splitters>=0.3.0
+
+# ===== Traducción (sin Docker, sin API key) =====
+deep-translator>=1.11.4
+
+# ===== Gemini API (embeddings + chat) =====
+google-genai>=1.0.0
+
+# ===== Base de datos vectorial =====
+chromadb>=0.5.0
+
+# ===== Interfaz interactiva en el notebook =====
+ipywidgets>=8.1.0
+
+# ===== Utilidades =====
+tqdm>=4.66.0
+python-dotenv>=1.0.0
