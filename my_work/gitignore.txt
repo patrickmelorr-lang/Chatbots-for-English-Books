@@ -1,0 +1,41 @@
+# ===== Secretos =====
+.env
+*.env
+secrets/
+
+# ===== Datos pesados (NO subir a GitHub) =====
+data/
+*.pdf
+chroma_db/
+translated_chunks.pkl
+*.bin
+*.sqlite3
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ===== IDEs =====
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+logs/
