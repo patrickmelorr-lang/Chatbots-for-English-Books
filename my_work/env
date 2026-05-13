@@ -2,7 +2,7 @@
 # El archivo .env NO se sube a GitHub (está en .gitignore).
 
 # API Key de Google AI Studio: https://aistudio.google.com/app/apikey
-GEMINI_API_KEY=AIzaSyDxUNR0TUxH2k8gxzDavIDoK-Yv9h5ay5Y
+GEMINI_API_KEY=AIzaSyBDC67nGENG6dBceYf51HUv7OaazSKQ6pk
 
 # Ruta absoluta al PDF del libro (ajusta según tu sistema)
 PDF_PATH=C:\Users\LENOVO\Downloads\computer-science-an-overview-13th-ed.pdf
