@@ -1,0 +1,36 @@
+# Variables de entorno 
+.env
+env/ 
+
+*.pkl
+*.pickle 
+*.db
+*.sqlite
+*.parquet
+
+
+#python
+__pycache__/
+*.pyc 
+*.pyo 
+*.pyd 
+.python
+venv/
+env/
+virtualenv/
+
+# Notebooks (opcional : subes notebooks pero no sus ouputs pesados)
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos del sistema 
+.DS_Store
+Thumbs.db 
+
+#IDEs 
+.vscode/
+.idea/
+*.swp 
+
+#logs
+*.logs
