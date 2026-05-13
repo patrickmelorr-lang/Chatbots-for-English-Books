@@ -2,6 +2,7 @@
 .env
 env/ 
 
+# Archivos binarios y datos 
 *.pkl
 *.pickle 
 *.db
